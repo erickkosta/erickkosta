@@ -2,7 +2,7 @@
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/erickkosta">
     <img align="center" height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=erickkostaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+         src="https://github-readme-stats.vercel.app/api?username=erickkosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
 ## Tecnologias
